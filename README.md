@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cliff-D56
 - 👀 I’m interested in creating Games/Apps/CG scenes
-- 🌱 I’m currently learning Python/C++/Unreal Engine
+- 🌱 I’m currently learning Java/C++/Unreal Engine
 - 💞️ I’m looking to collaborate on Games/Apps
 - 📫 How to reach me: emailing cliffordgardner9@gmail.com or contacting my discord Dark2662[RTX 2070]#3489
 
